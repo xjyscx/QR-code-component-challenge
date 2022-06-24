@@ -1,0 +1,42 @@
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    
+    body{
+      background-color: hsl(212, 45%, 89%);
+      width: 1440px;
+      
+      
+    }
+    .main{
+      background-color: hsl(0, 0%, 100%);
+      align-items:center;
+      width: 270px;
+      height: 430px;
+      margin: auto;
+      position: absolute;
+      top:20%;
+      left:40%;
+      transform: translate(-50,-50);
+      border-radius: 10px;
+      padding: 10px;
+    }
+    img{
+      width: 100%;
+      border-radius: 10px;
+    }
+      h1{
+      font-size: 15px;
+      font-weight: 700;
+      color: hsl(218, 44%, 22%);
+      padding: 0.25em;
+      text-align: center;
+    }
+    p{
+      font-size: 15px;
+      color: hsl(220, 15%, 55%);
+      font-weight: 400;
+      text-align: center;
+    }
+    
